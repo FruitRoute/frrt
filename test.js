@@ -26,4 +26,29 @@
     }
 */
 
+//Циклы 
+//Цикл "while"
+var JoJo = 10;
+/*
+while (JoJo < 20){
+    JoJo = JoJo +1;
+    console.log(JoJo);
+    if(JoJo==20){
+        console.log("Done!");
+    }
+}
 
+//"Do" цикл
+do{
+    JoJo = JoJo +1;
+    console.log(JoJo);
+    if(JoJo==20){
+        console.log("Done!");
+    }
+}
+while(JoJo<20);
+*/
+for(JoJo;JoJo<20; JoJo++){
+    console.log(JoJo);
+}
+/*
